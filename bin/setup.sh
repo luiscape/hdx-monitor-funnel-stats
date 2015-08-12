@@ -11,11 +11,3 @@ pip install requests[security]
 git clone https://github.com/jeffknupp/sandman
 cd sandman
 python setup.py install
-
-## Running the Python setup script.
-cd ..
-python scripts/setup/
-
-## Cleaning-up.
-cd temp/
-rm *.csv

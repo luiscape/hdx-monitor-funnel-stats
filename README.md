@@ -12,6 +12,6 @@ A local `/secrets` directory should be mounted as a volume when running the Dock
 
 ```shell
 $ docker run --name funnel_stats \
-    -v "$(pwd)"/secrets:/secrets \
+    -v "$(pwd)"/secrets:/hdx-monitor-funnel-stats/secrets \
     -d luiscape/hdx-monitor-funnel-stats:latest
 ```

@@ -5,3 +5,13 @@
 Bureau is a simple application created to collect and display statistics about the performance of the [Humanitarian Exchange Project](http://hdx.rwlabs.org).
 
 !["Application v.0.1.0"](docs/screen_grab_v.0.1.0.png)
+
+
+## Using Dockerfile
+A local `/secrets` directory should be mounted as a volume when running the Dockerfile. The following command should work:
+
+```shell
+$ docker run --name funnel_stats \
+    -v "$(pwd)"/secrets:/secrets \
+    -d luiscape/hdx-monitor-funnel-stats:latest
+```

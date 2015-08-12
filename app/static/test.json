@@ -1,0 +1,3892 @@
+{
+  "resources": [
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-05-23",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 31
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-05-24",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 32
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-05-26",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 32
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-05-27",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 33
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-05-28",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 36
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-05-29",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 37
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-05-30",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 37
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-05-31",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 37
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-02",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 46
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-03",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 46
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-04",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 47
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-05",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 50
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-06",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 50
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-07",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 51
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-09",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 52
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-10",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 53
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-11",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 54
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-12",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 49
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-13",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 49
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-14",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 49
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-16",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 49
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-17",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 50
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-18",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 51
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-19",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 51
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-20",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 52
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-21",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 53
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-23",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 53
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-24",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 53
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-25",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 53
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-26",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 54
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-27",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 57
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-28",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 57
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-06-30",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 57
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-01",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 57
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-02",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 57
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-03",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 57
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-04",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 58
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-05",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 58
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-07",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 58
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-08",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 61
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-09",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 61
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-10",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 62
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-11",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 63
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-12",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 64
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-14",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 64
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-15",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 65
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-15",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 79
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-16",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 90
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-16",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 92
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-16",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 108
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-17",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 122
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-18",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 150
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-19",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 156
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-21",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 170
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-22",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 182
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-23",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 188
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-24",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 195
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-25",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 195
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-26",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 196
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-28",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 197
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-29",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 204
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-30",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 207
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-07-31",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 212
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-01",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 214
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-02",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 216
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-04",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 219
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-05",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 219
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-06",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 223
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-07",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 229
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-08",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 234
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-09",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 234
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-11",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 235
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-12",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 236
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-13",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 238
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-14",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 244
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-15",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 248
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-16",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 250
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-18",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 250
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-19",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 255
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-20",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 257
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-21",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 258
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-22",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 258
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-23",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 260
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-25",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 261
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-26",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 263
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-27",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 265
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-28",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 265
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-29",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 265
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-08-30",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 267
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-01",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 268
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-02",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 270
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-03",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 273
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-04",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 275
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-05",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 277
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-08",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 277
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-09",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 278
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-10",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 279
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-11",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 279
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-12",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 281
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-13",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 287
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-15",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 288
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-16",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 289
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-17",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 291
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-18",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 295
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-19",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 298
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-20",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 302
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-22",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 302
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-23",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 303
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-24",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 304
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-25",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 306
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-26",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 310
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-27",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 314
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-29",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 315
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-09-30",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 317
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-01",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 321
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-02",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 325
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-03",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 333
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-04",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 338
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-06",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 338
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-07",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 341
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-08",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 344
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-09",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 347
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-10",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 349
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-11",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 353
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-13",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 361
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-14",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 360
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-15",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 363
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-16",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 369
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-17",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 374
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-18",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 376
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-20",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 383
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-21",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 392
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-22",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 393
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-23",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 398
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-24",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 400
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-25",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 402
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-27",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 404
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-28",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 409
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-29",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 415
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-30",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 420
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-10-31",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 428
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-01",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 431
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-03",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 434
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-04",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 442
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-05",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 447
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-06",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 455
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-07",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 465
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-08",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 470
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-10",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 475
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-11",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 477
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-12",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 485
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-13",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 493
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-14",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 501
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-15",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 512
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-17",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 517
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-18",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 523
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-19",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 529
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-20",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 533
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-21",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 539
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-22",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 549
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-24",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 554
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-25",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 556
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-26",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 561
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-27",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 568
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-28",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 575
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-11-29",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 583
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-01",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 592
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-02",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 598
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-03",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 604
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-04",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 606
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-05",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 611
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-06",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 625
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-08",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 629
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-09",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 637
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-10",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 648
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-11",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 664
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-12",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 671
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-13",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 682
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-15",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 688
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-16",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 697
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-17",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 704
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-18",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 710
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-19",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 715
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-20",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 719
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-22",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 723
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-23",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 726
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-24",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 725
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-25",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 731
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-26",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 732
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-27",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 733
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-29",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 736
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-30",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 741
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-12-31",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 747
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W21",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 32
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W22",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 40
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W23",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 51
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W24",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 49
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W25",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 53
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W26",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 57
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W27",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 58
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W28",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 64
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W29",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 164
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W30",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 197
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W31",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 217
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W32",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 234
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W33",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 250
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W34",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 261
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W35",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 267
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W36",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 277
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W37",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 287
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W38",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 302
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W39",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 314
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W40",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 338
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W41",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 357
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W42",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 378
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W43",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 402
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W44",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 431
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W45",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 471
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W46",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 516
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W47",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 553
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W48",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 587
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W49",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 626
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W50",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 688
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W51",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 721
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2014-W52",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 734
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-01",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 749
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-02",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 749
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-03",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 750
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-05",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 753
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-06",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 752
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-07",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 758
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-08",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 760
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-09",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 763
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-10",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 767
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-12",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 770
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-13",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 772
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-14",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 775
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-15",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 778
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-16",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 782
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-17",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 785
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-19",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 787
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-20",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 794
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-21",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 797
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-22",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 803
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-23",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 811
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-24",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 817
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-26",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 818
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-27",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 820
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-28",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 825
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-29",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 831
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-29",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 835
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-30",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 835
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-01-31",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 841
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-02",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 843
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-03",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 843
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-04",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 845
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-05",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 848
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-06",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 852
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-07",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 856
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-09",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 859
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-10",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 862
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-11",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 868
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-12",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 896
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-13",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 902
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-14",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 906
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-16",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 907
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-17",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 908
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-18",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 912
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-19",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 921
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-20",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 924
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-21",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 927
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-23",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 940
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-24",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 947
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-25",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 950
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-26",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 953
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-27",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 955
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-02-28",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 956
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-02",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 959
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-03",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 960
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-04",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 962
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-05",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 965
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-06",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 968
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-07",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 970
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-09",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 972
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-10",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 976
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-11",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 978
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-12",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 980
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-13",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 983
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-14",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 989
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-16",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 991
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-17",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 992
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-18",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 997
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-19",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 999
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-20",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1003
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-21",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1008
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-23",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1009
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-24",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1014
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-25",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1018
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-26",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1019
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-27",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1022
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-28",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1028
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-30",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1029
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-03-31",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1030
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-04-01",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1038
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-04-02",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1039
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-04-03",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1040
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-04-04",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1043
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-04-06",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1047
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-04-06",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1050
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-04-07",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1050
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-W01",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 752
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-W02",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 770
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-W03",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 785
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-W04",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 818
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-W05",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 842
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-W06",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 858
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-W07",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 907
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-W08",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 938
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-W09",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 958
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-W10",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 971
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-W11",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 990
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-W12",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1008
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-W13",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1028
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-W14",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1045
+    }
+  ]
+}

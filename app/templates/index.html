@@ -1,0 +1,136 @@
+
+<!doctype html>
+<html lang="en" class="csstransforms csstransforms3d csstransitions js cssanimations csstransitions">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>bureau</title>
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600" rel="stylesheet" type="text/css" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='static/css/vendor/c3.min.css' rel='stylesheet' />
+    <link rel='stylesheet' id='bean-css' href='static/css/vendor/framework.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='main-style-css' href='static/css/vendor/hdx-style.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='mobile-css' href='static/css/vendor/mobile.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='dashboard-styles' href='static/css/dashboard.css' type='text/css' media='all' />
+    <script>
+    var _prum = [
+        ['id', '552eba65abe53de156a183ac'],
+        ['mark', 'firstbyte', (new Date()).getTime()]
+    ];
+    (function() {
+        var s = document.getElementsByTagName('script')[0],
+            p = document.createElement('script');
+        p.async = 'async';
+        p.src = '//rum-static.pingdom.net/prum.min.js';
+        s.parentNode.insertBefore(p, s);
+    })();
+    </script>
+</head>
+
+<body class="archive category category-blog category-12 custom-background chrome group-blog">
+    <div class="top-bar"></div>
+    <section id='main-container' class="BlogFrontPage clear animated BeanFadeIn">
+        <div class="row" style="padding-bottom: 20px;padding-top:100px;">
+            <div class="five columns left">
+                <h1 style="font-size:60px;">Week <span id="current-week"><img src="static/img/loading.gif"></span>, 2015</h1>
+                 <h4 style="font-size:20px; font-weight:200;">Weekly HDX funnel statistic as of <span id="today_date"><img src="static/img/loading.gif"></span></h4>
+                <!-- <h2 style="font-size:32px;color:#848484">week 13 | 2015</h2> -->
+            </div>
+            <div class="eight columns right">
+            </div>
+        </div>
+        <!-- <div class="row">
+            <div class="three columns left">
+                <p data-tooltip="Total number of registered organizations at the end of the period.">Number of Organizations</p>
+                <span id="orgs-top-figure" class="latest_figure"></span>
+            </div>
+            <div class="nine columns left">
+                <div id="orgs-chart"></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="three columns left">
+                <p data-tooltip="Users that have had at least one session within the selected date range. Includes both new and returning users">Number of Users</p>
+                <span id="users-top-figure" class="latest_figure"></span>
+            </div>
+            <div class="nine columns left">
+                <div id="users-chart"></div>
+            </div>
+        </div> -->
+        <div class="row" style="padding-top:20px;">
+            <div class="three columns left">
+                <p data-tooltip="The number of new registered organizations calculated as the total number of registered users at the end of the period less the total number of registered organiations at the end of the preceeding period">Number of New Organizations</p>
+                <span id="new-orgs-top-figure" class="latest_figure"></span>
+            </div>
+            <div class="nine columns left">
+                <div id="new-orgs-chart"></div>
+            </div>
+        </div>
+        <div class="row" style="padding-top:20px;">
+            <div class="three columns left">
+                <p data-tooltip="The number of new registered users calculated as the total number of registered users at the end of the period less the total number of registered users at the end of the preceeding period">Number of New Users</p>
+                <span id="new-users-top-figure" class="latest_figure"></span>
+            </div>
+            <div class="nine columns left">
+                <div id="new-users-chart"></div>
+            </div>
+        </div>
+        <div class="row" style="padding-top:20px;">
+            <div class="three columns left">
+                <p data-tooltip="The number of new datasets calculated as the total number of datasets at the end of the period less the total number of datasets at the end of the preceeding period.">Number of New Datasets</p>
+                <span id="new-datasets-top-figure" class="latest_figure"></span>
+            </div>
+            <div class="nine columns left">
+                <div id="new-datasets-chart"></div>
+            </div>
+        </div>
+        <div class="row" style="padding-top:20px;">
+            <div class="three columns left">
+                <p data-tooltip="The share of HDX visitors who registered">Conversion Rate to Register</p>
+                <span id="conv-register-top-figure" class="latest_figure"></span>
+            </div>
+            <div class="nine columns left">
+                <div id="conversion-register-chart"></div>
+            </div>
+        </div>
+        <div class="row" style="padding-top:20px;">
+            <div class="three columns left">
+                <p data-tooltip="The share of HDX visitors who downloaded a file.">Conversion Rate to Download</p>
+                <span id="conv-download-top-figure" class="latest_figure"></span>
+            </div>
+            <div class="nine columns left">
+                <div id="conversion-download-chart"></div>
+            </div>
+        </div>
+        <div class="row" style="padding-top:20px; padding-bottom:30px">
+            <div class="three columns left">
+                <p data-tooltip="The share of HDX visitors sho shared a site link.">Conversion Rate to Share</p>
+                <span id="conv-share-top-figure" class="latest_figure"></span>
+            </div>
+            <div class="nine columns left">
+                <div id="conversion-share-chart"></div>
+            </div>
+        </div>
+    </section>
+    <footer>
+        <div class="row">
+            <p class="footer">v.0.1.2</p>
+        </div>
+    </footer>
+</body>
+<script type="text/javascript" src='static/js/vendor/numerals.js'></script>
+<script type='text/javascript' src="static/js/vendor/d3.min.js"></script>
+<script type='text/javascript' src='static/js/vendor/c3.min.js'></script>
+<script type='text/javascript' src='static/js/vendor/jquery.min.js'></script>
+<script type='text/javascript' src='static/js/vendor/jsonpath.js'></script>
+<script type="text/javascript" src="static/js/vendor/data_collection.js"></script>
+<script type="text/javascript" src="static/js/vendor/pace.min.js"></script>
+<script type="text/javascript" src="static/js/vendor/simple_statistics.js"></script>
+<script type='text/javascript' src='static/js/variables.js'></script>
+<script type='text/javascript' src='static/js/sparklines.js'></script>
+<script type='text/javascript' src='static/js/latestfigures.js'></script>
+<script type='text/javascript' src='static/js/current_week.js'></script>
+
+</html>

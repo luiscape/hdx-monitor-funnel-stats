@@ -1,0 +1,14 @@
+venv/*
+venv/**
+
+secrets/*
+secrets/**
+
+scripts/ga-collect/secrets/*
+scripts/ga-collect/secrets/**
+
+*.sqlite
+*.pyc
+
+*~
+*.swp

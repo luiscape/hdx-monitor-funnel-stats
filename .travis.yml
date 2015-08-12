@@ -1,0 +1,22 @@
+language: python
+sudo: required
+python:
+  - "2.7"
+  # - "3.4"
+
+# command to install dependencies
+install:
+  - pip install coveralls
+  - ./setup.sh
+
+# run tests + coverage
+script:
+  - ./test.sh
+
+# send coverage report to coveralls.io
+after_success:
+  - coveralls
+
+# email notifications
+notifications:
+    email: false

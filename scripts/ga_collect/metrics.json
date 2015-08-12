@@ -1,0 +1,56 @@
+{
+    "metric_list": [
+        {
+            "metricid": "ga-users",
+            "metrics": "ga:users",
+            "filters": []
+        },
+        {
+            "metricid": "ga-avgsession-duration",
+            "metrics": "ga:avgSessionDuration",
+            "filters": []
+        },
+        {
+            "metricid": "ga-uniqueevents-resource-download",
+            "metrics": "ga:uniqueEvents",
+            "filters": [
+                {
+                    "dimension": "ga:eventAction",
+                    "value": "download"
+                },
+                {
+                    "dimension": "ga:eventCategory",
+                    "value": "resource"
+                }
+            ]
+        },
+        {
+            "metricid": "ga-uniqueevents-resource-share",
+            "metrics": "ga:uniqueEvents",
+            "filters": [
+                {
+                    "dimension": "ga:eventAction",
+                    "value": "share"
+                },
+                {
+                    "dimension": "ga:eventCategory",
+                    "value": "resource"
+                }
+            ]
+        },
+        {
+            "metricid": "ga-uniqueevents-dataset-share",
+            "metrics": "ga:uniqueEvents",
+            "filters": [
+                {
+                    "dimension": "ga:eventAction",
+                    "value": "share"
+                },
+                {
+                    "dimension": "ga:eventCategory",
+                    "value": "dataset"
+                }
+            ]
+        }
+    ]
+}

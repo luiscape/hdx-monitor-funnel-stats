@@ -1,0 +1,229 @@
+{
+  "resources": [
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ga-users"
+        }
+      ],
+      "metricid": "ga-users",
+      "period": "2015-W14",
+      "period_end_date": "2015-04-05",
+      "period_start_date": "2015-03-30",
+      "period_type": "w",
+      "self": "/funnels/ga-users",
+      "value": 1134.0
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ga-avgsession-duration"
+        }
+      ],
+      "metricid": "ga-avgsession-duration",
+      "period": "2015-W14",
+      "period_end_date": "2015-04-05",
+      "period_start_date": "2015-03-30",
+      "period_type": "w",
+      "self": "/funnels/ga-avgsession-duration",
+      "value": 372.0109195402299
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ga-uniqueevents-resource-download"
+        }
+      ],
+      "metricid": "ga-uniqueevents-resource-download",
+      "period": "2015-W14",
+      "period_end_date": "2015-04-05",
+      "period_start_date": "2015-03-30",
+      "period_type": "w",
+      "self": "/funnels/ga-uniqueevents-resource-download",
+      "value": 281.0
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ga-uniqueevents-resource-share"
+        }
+      ],
+      "metricid": "ga-uniqueevents-resource-share",
+      "period": "2015-W14",
+      "period_end_date": "2015-04-05",
+      "period_start_date": "2015-03-30",
+      "period_type": "w",
+      "self": "/funnels/ga-uniqueevents-resource-share",
+      "value": 11.0
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ga-uniqueevents-dataset-share"
+        }
+      ],
+      "metricid": "ga-uniqueevents-dataset-share",
+      "period": "2015-W14",
+      "period_end_date": "2015-04-05",
+      "period_start_date": "2015-03-30",
+      "period_type": "w",
+      "self": "/funnels/ga-uniqueevents-dataset-share",
+      "value": 35.0
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-users"
+        }
+      ],
+      "metricid": "ckan-number-of-users",
+      "period": "2015-W14",
+      "period_end_date": "2015-04-05",
+      "period_start_date": "2015-04-05",
+      "period_type": "w",
+      "self": "/funnels/ckan-number-of-users",
+      "value": 1045.0
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-orgs"
+        }
+      ],
+      "metricid": "ckan-number-of-orgs",
+      "period": "2015-W14",
+      "period_end_date": "2015-04-05",
+      "period_start_date": "2015-04-05",
+      "period_type": "w",
+      "self": "/funnels/ckan-number-of-orgs",
+      "value": 125.0
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/ckan-number-of-datasets"
+        }
+      ],
+      "metricid": "ckan-number-of-datasets",
+      "period": "2015-W14",
+      "period_end_date": "2015-04-05",
+      "period_start_date": "2015-04-05",
+      "period_type": "w",
+      "self": "/funnels/ckan-number-of-datasets",
+      "value": 1563.0
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/calc-ckan-new-users"
+        }
+      ],
+      "metricid": "calc-ckan-new-users",
+      "period": "2015-W14",
+      "period_end_date": "2015-04-05",
+      "period_start_date": "2015-03-30",
+      "period_type": "w",
+      "self": "/funnels/calc-ckan-new-users",
+      "value": 17.0
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/calc-conversion-register"
+        }
+      ],
+      "metricid": "calc-conversion-register",
+      "period": "2015-W14",
+      "period_end_date": "2015-04-05",
+      "period_start_date": "2015-03-30",
+      "period_type": "w",
+      "self": "/funnels/calc-conversion-register",
+      "value": 0.014991181657848324
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/calc-conversion-download"
+        }
+      ],
+      "metricid": "calc-conversion-download",
+      "period": "2015-W14",
+      "period_end_date": "2015-04-05",
+      "period_start_date": "2015-03-30",
+      "period_type": "w",
+      "self": "/funnels/calc-conversion-download",
+      "value": 0.24779541446208111
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/calc-uniqueevents-total-share"
+        }
+      ],
+      "metricid": "calc-uniqueevents-total-share",
+      "period": "2015-W14",
+      "period_end_date": "2015-04-05",
+      "period_start_date": "2015-03-30",
+      "period_type": "w",
+      "self": "/funnels/calc-uniqueevents-total-share",
+      "value": 46.0
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/calc-conversion-share"
+        }
+      ],
+      "metricid": "calc-conversion-share",
+      "period": "2015-W14",
+      "period_end_date": "2015-04-05",
+      "period_start_date": "2015-03-30",
+      "period_type": "w",
+      "self": "/funnels/calc-conversion-share",
+      "value": 0.04056437389770723
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/calc-ckan-new-orgs"
+        }
+      ],
+      "metricid": "calc-ckan-new-orgs",
+      "period": "2015-W14",
+      "period_end_date": "2015-04-05",
+      "period_start_date": "2015-03-30",
+      "period_type": "w",
+      "self": "/funnels/calc-ckan-new-orgs",
+      "value": 2.0
+    },
+    {
+      "links": [
+        {
+          "rel": "self",
+          "uri": "/funnels/calc-number-of-new-datasets"
+        }
+      ],
+      "metricid": "calc-number-of-new-datasets",
+      "period": "2015-W14",
+      "period_end_date": "2015-04-05",
+      "period_start_date": "2015-03-30",
+      "period_type": "w",
+      "self": "/funnels/calc-number-of-new-datasets",
+      "value": 10.0
+    }
+  ]
+}

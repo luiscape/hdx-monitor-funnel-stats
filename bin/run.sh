@@ -4,8 +4,7 @@
 # Collecting the latest data.
 #
 source venv/bin/activate
-cd hdx-monitor-funnel-stats
-python hdx-monitor-funnel-stats/scripts/setup/
+python scripts/setup/
 
 #
 # Cleaning up.

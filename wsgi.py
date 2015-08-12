@@ -43,7 +43,7 @@ def CheckOpenShift():
   except Exception as e:
     print "%s Application not on OpenShift." % I.item('prompt_bullet')
     l = {
-      "ip": 'localhost',
+      "ip": '127.0.0.1',
       "port": 7000
     } 
 

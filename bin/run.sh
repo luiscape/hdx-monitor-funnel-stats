@@ -3,7 +3,7 @@
 #
 # Collecting the latest data.
 #
-cd ..
+source venv/bin/activate
 python scripts/setup/
 
 #

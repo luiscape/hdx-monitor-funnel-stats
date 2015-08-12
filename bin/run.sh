@@ -4,7 +4,8 @@
 # Collecting the latest data.
 #
 source venv/bin/activate
-python scripts/setup/
+cd hdx-monitor-funnel-stats
+python hdx-monitor-funnel-stats/scripts/setup/
 
 #
 # Cleaning up.
@@ -15,5 +16,5 @@ rm *.csv
 #
 # Running server.
 #
-source venv/bin/activate
+cd ..
 python wsgi.py

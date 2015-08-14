@@ -4,6 +4,9 @@ venv/**
 secrets/*
 secrets/**
 
+sandman/*
+sandman/**
+
 scripts/ga-collect/secrets/*
 scripts/ga-collect/secrets/**
 

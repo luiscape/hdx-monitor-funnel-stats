@@ -13,7 +13,7 @@ from apiclient.errors import HttpError
 from oauth2client.client import SignedJwtAssertionCredentials
 
 
-dir = os.path.dirname(__file__) 
+dir = os.path.dirname(__file__)
 
 def get_ga_service(client_email, private_key):
     """ Initialises a ga service object

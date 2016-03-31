@@ -4,15 +4,10 @@
 import os
 import sys
 
-# Below as a helper for namespaces.
-# Looks like a horrible hack.
-dir = os.path.split(os.path.split(os.path.realpath(__file__))[0])[0]
-sys.path.append(dir)
-
 import mock
 import unittest
 import scraperwiki
-import setup as Setup
+import scripts.setup as Setup
 
 from mock import patch
 from scripts.utilities import store_records as Store
@@ -33,7 +28,7 @@ class SWDatabaseManagementTest(unittest.TestCase):
 
 class StoringRecordsTest(unittest.TestCase):
   '''Unit tests for the storing records mechanism.'''
-  
+
   def test_storing_record(self):
     data = [{ 'metricid': 'test', 'period': 'test', 'value': 4 }]
     assert Store.StoreRecords(data, table = 'funnel') == True
@@ -46,6 +41,7 @@ class DatabaseCreationTest(unittest.TestCase):
     assert Setup.CreateTables() == True
 
   def test_tables_exist(self):
+    expected_tables = ['funnel', 'metrics']
     tables = scraperwiki.sqlite.show_tables()
-    assert 'funnel' in tables.keys()
-    assert 'metrics' in tables.keys()
+    for table in expected_tables:
+      assert table in tables.keys()

@@ -4,15 +4,10 @@
 import os
 import sys
 
-# Below as a helper for namespaces.
-# Looks like a horrible hack.
-dir = os.path.split(os.path.split(os.path.realpath(__file__))[0])[0]
-sys.path.append(dir)
-
 import mock
 import unittest
 import scraperwiki
-import setup as Setup
+import scripts.setup as Setup
 from scripts.ckan_collect import ckan_num_reg_users as Users
 from mock import patch
 

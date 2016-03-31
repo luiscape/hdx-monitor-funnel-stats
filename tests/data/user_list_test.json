@@ -1,0 +1,40 @@
+{
+  "help": "Return a list of the site's user accounts.\n\n    :param q: restrict the users returned to those whose names contain a string\n      (optional)\n    :type q: string\n    :param order_by: which field to sort the list by (optional, default:\n      ``'name'``)\n    :type order_by: string\n\n    :rtype: list of dictionaries\n\n    ",
+  "success": true,
+  "result": [
+    {
+      "openid": null,
+      "about": null,
+      "apikey": "39a65b59-3278-47fe-bc89-5138ce3b3d2e",
+      "display_name": "Abby",
+      "name": "aknight43",
+      "created": "2014-11-21T13:45:44.363203",
+      "email_hash": "b389b3e8bb00cba44959f2a84dc46866",
+      "email": "akbabe43@aim.com",
+      "sysadmin": false,
+      "activity_streams_email_notifications": false,
+      "state": "active",
+      "number_of_edits": 0,
+      "number_administered_packages": 0,
+      "fullname": "Abby",
+      "id": "045597cd-4eab-4197-b5f9-508696237d62"
+    },
+    {
+      "openid": null,
+      "about": null,
+      "apikey": "ef6ead78-21b6-49f9-87e0-8df94cd14866",
+      "display_name": "Abdallah",
+      "name": "abdallahsamy",
+      "created": "2014-11-09T20:17:23.834430",
+      "email_hash": "acd07da869805b7458000513a17c31da",
+      "email": "asamy.ku@gmail.com",
+      "sysadmin": false,
+      "activity_streams_email_notifications": false,
+      "state": "active",
+      "number_of_edits": 0,
+      "number_administered_packages": 0,
+      "fullname": "Abdallah",
+      "id": "4d4815ca-5448-46c8-a819-5a3198256651"
+    }
+  ]
+}

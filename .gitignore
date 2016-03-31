@@ -15,3 +15,5 @@ scripts/ga-collect/secrets/**
 
 *~
 *.swp
+
+.DS_Store

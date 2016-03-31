@@ -32,7 +32,7 @@ def StoreRecords(data, table, verbose = True):
       print e
       return False
 
-    else: 
+    else:
       print "%s select one of the following tables: 'funnel', 'metrics', or '_log'." % I.item('prompt_error')
       return False
 
@@ -41,9 +41,9 @@ def StoreRecords(data, table, verbose = True):
   def recordExists(record):
 
     ## TODO: navigate the schema properly.
-    
+
     sql_statement = 'SELECT COUNT (' + schema[0] + ') FROM ' + table + ' WHERE ' + schema[0] + '=' + '"' + record[schema[0]] + '"' + ' AND ' + schema[1] + '=' + '"' + record[schema[0]] + '"'
-    
+
     try:
       query = scraperwiki.sqlite.execute(sql_statement)
       return query["data"][0][0] > 0
@@ -52,8 +52,8 @@ def StoreRecords(data, table, verbose = True):
       print e
       return
 
-  
-      
+
+
   def recordDelete(record):
     sql_statement = 'DELETE FROM ' + table + ' WHERE ' + schema[0] + '=' + '"' + record[schema[0]] + '"' + ' AND ' + schema[1] + '=' + '"' + record[schema[1]] + '"'
 
@@ -72,18 +72,18 @@ def StoreRecords(data, table, verbose = True):
       recordDelete(record)
       exist =+ 1
 
-    else: 
+    else:
       not_exist =+ 1
 
     scraperwiki.sqlite.save(schema, record, table_name=table)
 
 
   # Printing summary of operation.
-  if not_exist > 0:
+  if not_exist != 0:
     if verbose:
       print "%s Storing %s record(s) in database, %s." % (I.item('prompt_bullet'), not_exist, table)
 
-  if exist > 0:
+  if exist != 0:
     print "%s %s records already exists in database, %s. Updated." % (I.item('prompt_bullet'), exist, table)
 
   return True

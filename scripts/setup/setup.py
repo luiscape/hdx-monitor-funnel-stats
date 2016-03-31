@@ -136,8 +136,8 @@ def collect_previous_ckan_data(test_data = False):
 
     if r.status_code == 200:
         with open(path, 'wb') as f:
-                r.raw.decode_content = True
-                shutil.copyfileobj(r.raw, f)
+            r.raw.decode_content = True
+            shutil.copyfileobj(r.raw, f)
 
     # Read file and store in database.
     try:
@@ -177,10 +177,13 @@ def collect_previous_ckan_data(test_data = False):
                 records.append(datasets)
 
                 record_date = datetime.strptime(row["date"], "%Y-%m-%d")
-                if record_date == datecalc.period_end_date(date = record_date, period_type = "w"):
+                if record_date == datecalc.period_start_date(date = record_date, period_type = "w"):
                     record_week = datecalc.get_period(date = record_date, period_type = "w")
 
-                    # adding weekly records
+                    #
+                    #  Adding weekly records to the
+                    #  record collection.
+                    #
                     user["period"] = record_week
                     user["period_type"] = "w"
                     orgs["period"] = record_week
@@ -193,7 +196,10 @@ def collect_previous_ckan_data(test_data = False):
                     records.append(datasets)
 
 
-            # Store records.
+            #
+            #  Store records in database.
+            #
+            print "%s Storing CKAN historical data (%s records)." % (I.item('prompt_bullet'), len(records))
             S.StoreRecords(records, table = "funnel")
 
             if test_data:
@@ -215,7 +221,6 @@ def run_historical_calculations():
 
     try:
         calc.get_initial_setup_data()
-        # S.StoreRecords(records, table = "funnel")
 
     except Exception as e:
         print e

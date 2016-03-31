@@ -3,9 +3,9 @@
 
 import setup
 
-def Main():
-  '''Main setup scripts.'''
-  setup.Main()
+def main():
+  '''main setup scripts.'''
+  setup.main()
 
 if __name__ == '__main__':
-  Main()
+  main()

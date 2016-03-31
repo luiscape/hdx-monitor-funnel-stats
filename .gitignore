@@ -1,6 +1,9 @@
 venv/*
 venv/**
 
+temp/*
+temp/**
+
 secrets/*
 secrets/**
 

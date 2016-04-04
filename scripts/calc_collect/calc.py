@@ -128,11 +128,11 @@ def calculate_funnel_data(date, period_type):
 def get_initial_setup_data():
     """Calculate all data from 24 May 2014 to the current date"""
 
-    yesterday = datetime.date.today() - datetime.timedelta(days=1)
+    tomorrow = datetime.date.today() + datetime.timedelta(days=1)
     date = datetime.date(2014, 5, 26)
     # date = datetime.date(2016, 3, 28)
 
-    while date < yesterday:
+    while date < tomorrow:
         calculate_funnel_data(date, 'd')
         calculate_funnel_data(date, 'w')
         calculate_funnel_data(date, 'y')

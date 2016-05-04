@@ -32,10 +32,10 @@ def collect_ga(verbose = True):
 
 
 def main():
-  '''Wrapper.'''
-  collect_ga()
-  CKANUsers.CollectDaily()
-  CKANOrgs.CollectDaily()
+    '''Wrapper.'''
+    collect_ga()
+    CKANUsers.CollectDaily()
+    CKANOrgs.CollectDaily()
 
 
 if __name__ == "__main__":

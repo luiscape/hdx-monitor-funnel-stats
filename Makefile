@@ -4,7 +4,7 @@
 #  application, and running tests.
 #
 
-VERSION = v0.1.4
+VERSION = v0.1.5
 SEPARATOR = "----------------------------------"
 run:
 	bash bin/run.sh;

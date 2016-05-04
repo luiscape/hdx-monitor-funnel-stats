@@ -1,9 +1,6 @@
 venv/*
 venv/**
 
-temp/*
-temp/**
-
 secrets/*
 secrets/**
 
@@ -22,3 +19,5 @@ scripts/ga-collect/secrets/**
 .coverage
 
 .DS_Store
+
+.git

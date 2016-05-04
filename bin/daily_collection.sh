@@ -2,5 +2,9 @@
 
 cd ~/hdx-monitor-funnel-stats
 
-source venv/bin/activate
-python scripts/setup/
+for i in `seq 1 2`;
+do
+    echo "Running: $i out of 2"
+    source venv/bin/activate
+    python scripts/setup/
+done

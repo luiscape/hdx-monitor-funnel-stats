@@ -8,13 +8,19 @@ FROM python:2.7.10
 MAINTAINER Luis Capelo <capelo@un.org>
 
 
-# Clone app and install dependencies.
-RUN \
-  git clone https://github.com/luiscape/hdx-monitor-funnel-stats \
-  && cd hdx-monitor-funnel-stats \
-  && make setup
-  
+# Add local files and install dependencies.
+ADD . /hdx-monitor-funnel-stats
+
 WORKDIR "/hdx-monitor-funnel-stats"
+
+RUN make setup
+
+# Installing cron jobs.
+RUN \
+  apt-get update \
+  && apt-get install vim cron python-virtualenv -y \
+  && cp /hdx-monitor-funnel-stats/bin/daily_collection.sh /etc/cron.daily/daily_collection.sh \
+  && cp /hdx-monitor-funnel-stats/bin/patch_week.sh /etc/cron.daily/patch_week.sh
 
 EXPOSE 7000
 

@@ -15,14 +15,13 @@ for the current week on a schedule (hourly).
     -- Bukowski
 
 '''
-
-import datetime
 import scraperwiki as s
-
+import datetime
 
 def patch(week):
     '''
     Deletes entries from a target week.
+
     '''
     s.sql.execute('DELETE FROM funnel WHERE period="{week}"'.format(week=week))
     s.sql.execute('DELETE FROM funnel WHERE period="{week}"'.format(week=week))

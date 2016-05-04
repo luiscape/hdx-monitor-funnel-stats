@@ -1,7 +1,6 @@
 #!/bin/bash
 
 ## Installing virual env + requirements
-# apt-get install python-virtualenv
 virtualenv venv
 source venv/bin/activate
 pip install -r requirements.txt

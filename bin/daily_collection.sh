@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ~/hdx-monitor-funnel-stats
+cd /hdx-monitor-funnel-stats
 
 for i in `seq 1 2`;
 do
@@ -8,3 +8,4 @@ do
     source venv/bin/activate
     python scripts/setup/
 done
+ls
